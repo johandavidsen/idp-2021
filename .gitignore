@@ -1,0 +1,11 @@
+# WebStorm
+.idea
+
+# Node dependencies
+node_modules
+
+# Application dependencies
+public/css
+public/images
+public/js
+public/mix-manifest.json

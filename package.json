@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "laravel-mix": "^6.0.31",
+    "webslides": "^1.5.0"
+  }
+}
